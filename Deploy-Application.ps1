@@ -205,7 +205,7 @@ Try {
         }
 
         ## <Perform Installation tasks here>
-        Show-InstallationRestartPrompt -Countdownseconds 86400
+        Show-InstallationRestartPrompt -Countdownseconds 86400 -CountdownNoHideSeconds 3600
 
         ##*===============================================
         ##* POST-INSTALLATION
