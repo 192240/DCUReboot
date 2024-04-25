@@ -243,7 +243,7 @@
         <RestartPrompt_Title>Restart Required</RestartPrompt_Title>
         <!-- Text displayed in the title of the restart prompt which helps the script identify
         whether there is already a restart prompt being displayed and not to duplicate it. -->
-        <RestartPrompt_Message>In order for the installation to complete, you must restart your computer.</RestartPrompt_Message>
+        <RestartPrompt_Message>The WCSD IT Department has installed an important security update on your computer. In order for the installation to complete, you must restart your computer.</RestartPrompt_Message>
         <RestartPrompt_MessageTime>Please save your work and restart within the allotted time.</RestartPrompt_MessageTime>
         <RestartPrompt_MessageRestart>Your computer will be automatically restarted at the end of the countdown.</RestartPrompt_MessageRestart>
         <!-- Text displayed on the restart prompt. -->
