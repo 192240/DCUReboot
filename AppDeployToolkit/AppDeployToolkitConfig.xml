@@ -26,7 +26,7 @@
     <!--Toolkit
     Options-->
     <Toolkit_Options>
-        <Toolkit_RequireAdmin>False</Toolkit_RequireAdmin>
+        <Toolkit_RequireAdmin>True</Toolkit_RequireAdmin>
         <!-- Specify if Administrator Rights are required. NB: Some functions won't work if this is
         set to false, such as deferral, blockexecution, file & registry RW access and potentially
         logging. -->
