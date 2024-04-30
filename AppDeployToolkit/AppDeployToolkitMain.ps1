@@ -103,8 +103,8 @@ Param (
 #region VariableDeclaration
 
 ## Variables: Toolkit Name
-[String]$appDeployToolkitName = 'PSAppDeployToolkit'
-[String]$appDeployMainScriptFriendlyName = 'App Deploy Toolkit Main'
+[String]$appDeployToolkitName = 'WCSD IT Department'
+[String]$appDeployMainScriptFriendlyName = 'WCSD IT Department'
 
 ## Variables: Script Info
 [Version]$appDeployMainScriptVersion = [Version]'3.10.0'
